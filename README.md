@@ -13,6 +13,10 @@ And <https://github.com/livecd-tools/livecd-tools>
   --config=/usr/share/doc/livecd-tools/livecd-fedora-minimal.ks
 ```
 
+```text
+245M    livecd-fedora-minimal-***.iso
+```
+
 Kickstart
 
 ```text

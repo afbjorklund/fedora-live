@@ -8,6 +8,8 @@ And <https://github.com/livecd-tools/livecd-tools>
 
 * <https://pagure.io/fedora-comps>
 
+[Vagrantfile](./Vagrantfile) (`vagrant up --provider=libvirt`)
+
 ```console
 # # livecd-creator \
   --config=/usr/share/doc/livecd-tools/livecd-fedora-minimal.ks

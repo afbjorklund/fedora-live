@@ -11,7 +11,7 @@ And <https://github.com/livecd-tools/livecd-tools>
 [Vagrantfile](./Vagrantfile) (`vagrant up --provider=libvirt`)
 
 ```console
-# # livecd-creator \
+# livecd-creator \
   --config=/usr/share/doc/livecd-tools/livecd-fedora-minimal.ks
 ```
 

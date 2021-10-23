@@ -4,10 +4,6 @@ See <https://fedoraproject.org/wiki/FedoraLiveCD>
 
 And <https://github.com/livecd-tools/livecd-tools>
 
-* <https://pagure.io/fedora-kickstarts>
-
-* <https://pagure.io/fedora-comps>
-
 [Vagrantfile](./Vagrantfile) (`vagrant up --provider=libvirt`)
 
 ```console
@@ -19,7 +15,9 @@ And <https://github.com/livecd-tools/livecd-tools>
 245M    livecd-fedora-minimal-***.iso
 ```
 
-Kickstart
+## Kickstart
+
+* <https://pagure.io/fedora-kickstarts>
 
 ```text
 lang en_US.UTF-8
@@ -39,7 +37,9 @@ repo --name=development --mirrorlist=http://mirrors.fedoraproject.org/mirrorlist
 %end
 ```
 
-Comp (DNF group)
+## Comp (DNF group)
+
+* <https://pagure.io/fedora-comps>
 
 ```xml
   <group>
